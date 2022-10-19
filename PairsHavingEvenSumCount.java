@@ -1,8 +1,10 @@
 /*size of array 5
 array elmenets 2 4 6 8 10
 upto how many elements at a time 2
+if there is no even sum then print -1
 output:
 4 
+Explanation:
 paris having even sum
 since (2,4)=1
 (4,6)=1
